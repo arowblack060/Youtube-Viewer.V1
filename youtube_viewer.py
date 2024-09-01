@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2021-2023 MShawon
+ Copyright (c) 2021-2024 Black
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -63,7 +63,7 @@ Yb  dP  dP"Yb  88   88 888888 88   88 88""Yb 888888
 """ + bcolors.ENDC)
 
 print(bcolors.OKCYAN + """
-           [ GitHub : https://github.com/MShawon/YouTube-Viewer ]
+           [ GitHub : https://github.com/arowblack060/Youtube-Viewer.V1]
 """ + bcolors.ENDC)
 
 print(bcolors.WARNING + f"""
@@ -172,7 +172,7 @@ def update_chrome_version():
 
 
 def check_update():
-    api_url = 'https://api.github.com/repos/MShawon/YouTube-Viewer/releases/latest'
+    api_url = 'https://api.github.com/repos/arowblack060/Youtube-Viewer.V1/releases/latest'
     try:
         response = requests.get(api_url, timeout=30)
 
