@@ -1,24 +1,16 @@
 <p align="center">
-<img alt="ViewCount" src="https://views.whatilearened.today/views/github/MShawon/YouTube-Viewer.svg">
+<img alt="ViewCount" src="https://views.whatilearened.today/views/github/arowblack060/Youtube-Viewer.V1.svg">
 <img alt="OS" src="https://img.shields.io/badge/OS-Windows%20/%20Linux / Mac-success">
-<a href="https://github.com/MShawon/YouTube-Viewer/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/MShawon/YouTube-Viewer/total?label=Downloads&color=success"></a>
-<a href="https://github.com/MShawon/YouTube-Viewer/issues?q=is%3Aissue+is%3Aclosed"><img alt="Closed issues" src="https://img.shields.io/github/issues-closed/MShawon/YouTube-Viewer.svg"></a>
-<a href="https://github.com/MShawon/YouTube-Viewer/issues?q=is%3Aissue+is%3Aopen"><img alt="Open issues" src="https://img.shields.io/github/issues/MShawon/YouTube-Viewer"></a>
+<a href="https://github.com/arowblack060/Youtube-Viewer.V1/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/arowblack060/Youtube-Viewer.V1/total?label=Downloads&color=success"></a>
+<a href="https://github.com/arowblack060/Youtube-Viewer.V1/issues?q=is%3Aissue+is%3Aclosed"><img alt="Closed issues" src="https://img.shields.io/github/issues-closed/arowblack060/Youtube-Viewer.V1.svg"></a>
+<a href="https://github.com/arowblack060/Youtube-Viewer.V1/issues?q=is%3Aissue+is%3Aopen"><img alt="Open issues" src="https://img.shields.io/github/issues/arowblack060/Youtube-Viewer.V1"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/MShawon/YouTube-Viewer/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/MShawon/YouTube-Viewer?color=success"></a>
-  <a href="https://github.com/MShawon/YouTube-Viewer/releases/latest"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/MShawon/YouTube-Viewer?color=success"></a>
+  <a href="https://github.com/arowblack060/Youtube-Viewer.V1/releases/latest"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/arowblack060/Youtube-Viewer.V1?color=success"></a>
+  <a href="[https://github.com/arowblack060/Youtube-Viewer.V1/]/releases/latest"><img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/arowblack060/Youtube-Viewer.V1?color=success"></a>
 </p>
 
-    Yb  dP  dP"Yb  88   88 888888 88   88 88""Yb 888888
-     YbdP  dP   Yb 88   88   88   88   88 88__dP 88__   
-      8P   Yb   dP Y8   8P   88   Y8   8P 88""Yb 88""   
-     dP     YbodP  `YbodP'   88   `YbodP' 88oodP 888888 
-
-                         Yb    dP 88 888888 Yb        dP 888888 88""Yb 
-                          Yb  dP  88 88__    Yb  db  dP  88__   88__dP 
-                           YbdP   88 88""     YbdPYbdP   88""   88"Yb  
-                            YP    88 888888    YP  YP    888888 88  Yb
+   
 
 # YouTube Viewer
 Simple program to increase YouTube views written in Python. Works with live stream too.
@@ -33,35 +25,34 @@ Simple program to increase YouTube views written in Python. Works with live stre
 # Support
    Consider a donation to keep this project alive and for the countless hours of works and testing :)
    
-  **PayPal :** https://paypal.me/mshawon1
+  **PayPal :** https://paypal.me/jin775
   
-  **Bitcoin :** `1Jh8KZ6khuHayNDeVV9tEzYSq9FPExKCAH`
 
 # Topics
-[Requirements](https://github.com/MShawon/YouTube-Viewer#requirements)  
-[New Update](https://github.com/MShawon/YouTube-Viewer#new-update)  
-[Features](https://github.com/MShawon/YouTube-Viewer#features)   
-[Proxies](https://github.com/MShawon/YouTube-Viewer#proxies)    
-&ensp;&emsp;[Free Proxy](https://github.com/MShawon/YouTube-Viewer#free-proxy)  
-&ensp;&emsp;[Premium Proxy](https://github.com/MShawon/YouTube-Viewer#premium-proxy)  
-&ensp;&emsp;[Rotating Proxy](https://github.com/MShawon/YouTube-Viewer#rotating-proxy)  
-[HTTP API](https://github.com/MShawon/YouTube-Viewer#http-api)  
-[Config.json](https://github.com/MShawon/YouTube-Viewer#configjson)  
-[Urls](https://github.com/MShawon/YouTube-Viewer#urls)    
-[Search](https://github.com/MShawon/YouTube-Viewer#search)    
-[Live Stream](https://github.com/MShawon/YouTube-Viewer#live-stream)    
-[YouTube Music](https://github.com/MShawon/YouTube-Viewer#youtube-music)    
-[Fast VPS](https://github.com/MShawon/YouTube-Viewer#fast-vps-with-unlimited-traffic)         
-[Windows](https://github.com/MShawon/YouTube-Viewer#windows)  
-&ensp;&emsp;[Binary Release](https://github.com/MShawon/YouTube-Viewer#binary-release)  
-&ensp;&emsp;[Installation](https://github.com/MShawon/YouTube-Viewer#installation)  
-&ensp;&emsp;[Usage](https://github.com/MShawon/YouTube-Viewer#usage)  
-[Linux / Mac](https://github.com/MShawon/YouTube-Viewer#linux--mac)  
-&ensp;&emsp;[Installation](https://github.com/MShawon/YouTube-Viewer#installation-1)  
-&ensp;&emsp;[Usage](https://github.com/MShawon/YouTube-Viewer#usage)  
-[Best Practices](https://github.com/MShawon/YouTube-Viewer#usage-1)  
-[Issues](https://github.com/MShawon/YouTube-Viewer#issues)  
-[Credits](https://github.com/MShawon/YouTube-Viewer#credits)  
+[Requirements](https://github.com/arowblack060/Youtube-Viewer.V1#requirements)  
+[New Update](https://github.com/arowblack060/Youtube-Viewer.V1#new-update)  
+[Features](https://github.com/arowblack060/Youtube-Viewer.V1#features)   
+[Proxies](https://github.com/arowblack060/Youtube-Viewer.V1#proxies)    
+&ensp;&emsp;[Free Proxy](https://github.com/arowblack060/Youtube-Viewer.V1#free-proxy)  
+&ensp;&emsp;[Premium Proxy](https://github.com/arowblack060/Youtube-Viewer.V1#premium-proxy)  
+&ensp;&emsp;[Rotating Proxy](https://github.com/arowblack060/Youtube-Viewer.V1#rotating-proxy)  
+[HTTP API](https://github.com/arowblack060/Youtube-Viewer.V1#http-api)  
+[Config.json](https://github.com/arowblack060/Youtube-Viewer.V1#configjson)  
+[Urls](https://github.com/arowblack060/Youtube-Viewer.V1r#urls)    
+[Search](https://github.com/arowblack060/Youtube-Viewer.V1#search)    
+[Live Stream](https://github.com/arowblack060/Youtube-Viewer.V1#live-stream)    
+[YouTube Music](https://github.com/arowblack060/Youtube-Viewer.V1#youtube-music)    
+[Fast VPS](https://github.com/arowblack060/Youtube-Viewer.V1#fast-vps-with-unlimited-traffic)         
+[Windows](https://github.com/arowblack060/Youtube-Viewer.V1#windows)  
+&ensp;&emsp;[Binary Release](https://github.com/arowblack060/Youtube-Viewer.V1#binary-release)  
+&ensp;&emsp;[Installation](https://github.com/arowblack060/Youtube-Viewer.V1#installation)  
+&ensp;&emsp;[Usage](https://github.com/arowblack060/Youtube-Viewer.V1#usage)  
+[Linux / Mac](https://github.com/arowblack060/Youtube-Viewer.V1#linux--mac)  
+&ensp;&emsp;[Installation](https://github.com/arowblack060/Youtube-Viewer.V1#installation-1)  
+&ensp;&emsp;[Usage](https://github.com/arowblack060/Youtube-Viewer.V1#usage)  
+[Best Practices](https://github.com/arowblack060/Youtube-Viewer.V1#usage-1)  
+[Issues](https://github.com/arowblack060/Youtube-Viewer.V1#issues)  
+[Credits](https://github.com/arowblack060/Youtube-Viewer.V1#credits)  
 
 
 
@@ -104,17 +95,17 @@ Simple program to increase YouTube views written in Python. Works with live stre
 
 # How to get started
   1) First, install the script following any one of these   
-      * [Windows without installing python](https://github.com/MShawon/YouTube-Viewer#binary-release)    
-      * [Windows from source code](https://github.com/MShawon/YouTube-Viewer#installation)    
-      * [Linux / Mac from source code](https://github.com/MShawon/YouTube-Viewer#linux--mac)
-   2) Then put your video links in the [urls.txt](https://github.com/MShawon/YouTube-Viewer#urls) file
-   3) To search for your video on YouTube and then play it, put the search keywords and video title in the [search.txt](https://github.com/MShawon/YouTube-Viewer#search) file
-   4) Get your [proxy](https://github.com/MShawon/YouTube-Viewer#proxies) list
+      * [Windows without installing python](https://github.com/arowblack060/Youtube-Viewer.V1#binary-release)    
+      * [Windows from source code](https://github.com/arowblack060/Youtube-Viewer.V1#installation)    
+      * [Linux / Mac from source code](https://github.com/arowblack060/Youtube-Viewer.V1#linux--mac)
+   2) Then put your video links in the [urls.txt](https://github.com/Marowblack060/Youtube-Viewer.V1#urls) file
+   3) To search for your video on YouTube and then play it, put the search keywords and video title in the [search.txt](https://github.com/arowblack060/Youtube-Viewer.V1#search) file
+   4) Get your [proxy](https://github.com/arowblack060/Youtube-Viewer.V1#proxies) list
    5) Run the script and follow the instructions from there.
 
 
 # Proxies
- *[IPRoyal](https://iproyal.com?r=18862) offers datacenter and residential proxies. The Royal Residential proxies have a large pool with addresses in over 195 countries all over the world, so they can generate a massive number of views. IPRoyal agreed to provide an additional discount of 5% which adds up to current bulk discounts! To get this incredible 5% discount, with bulk discounts for Royal Residential proxies, use the discount code: `youtubers5`*
+ *[IPRoyal](https://iproyal.com) offers datacenter and residential proxies. The Royal Residential proxies have a large pool with addresses in over 195 countries all over the world, so they can generate a massive number of views. IPRoyal agreed to provide an additional discount of 5% which adds up to current bulk discounts! To get this incredible 5% discount, with bulk discounts for Royal Residential proxies, use the discount code: `youtubers5`*
 
 
 * ## Free Proxy
@@ -165,12 +156,12 @@ Simple program to increase YouTube views written in Python. Works with live stre
 
 
 # Fast VPS with Unlimited Traffic
-  *[PetroSky](https://petrosky.io/mshawon) is one of the various CloudHosting services with the fastest and most convenient cloud technology. Their servers are powered by the latest **AMD RYZEN/EPYC CPUs** with High-Performance **NVMe SSD Hard Drives** that will let your application run faster than ever. You can get 2 vCPU with 4 GB ECC RAM for as low as 11.99€/month which will work very well for YouTube-Viewer script for 2 threads. Visit [PetroSky](https://petrosky.io/mshawon) to get the fastest VPS with unlimited traffic at the lowest price. Use this code `mshawon25` to get **25% discount**  on your purchase*
+  *[PetroSky](https://petrosky.io/arowblack060) is one of the various CloudHosting services with the fastest and most convenient cloud technology. Their servers are powered by the latest **AMD RYZEN/EPYC CPUs** with High-Performance **NVMe SSD Hard Drives** that will let your application run faster than ever. You can get 2 vCPU with 4 GB ECC RAM for as low as 11.99€/month which will work very well for YouTube-Viewer script for 2 threads. Visit [PetroSky](https://petrosky.io/arowblack060) to get the fastest VPS with unlimited traffic at the lowest price. Use this code `mshawon25` to get **25% discount**  on your purchase*
 
 # Windows
 * ## Binary Release
 
-  For windows you can download binary releases from **[Binary releases](https://github.com/MShawon/YouTube-Viewer/releases)**. Download this file named `YouTube-Viewer_win_x.x.x.zip`, unzip it and run the `youtube_viewer.exe`. Or you can install it from source. To do so keep reading. 
+  For windows you can download binary releases from **[Binary releases](https://github.com/arowblack060/Youtube-Viewer.V1/releases)**. Download this file named `YouTube-Viewer_win_x.x.x.zip`, unzip it and run the `youtube_viewer.exe`. Or you can install it from source. To do so keep reading. 
   
 * ## Installation
 
@@ -178,7 +169,7 @@ Simple program to increase YouTube views written in Python. Works with live stre
   
   Open command prompt and type
   ```
-  git clone https://github.com/MShawon/YouTube-Viewer.git --depth 10
+  git clone https://github.com/arowblack060/Youtube-Viewer.V1.git --depth 10
   ```
   ```
   cd YouTube-Viewer
@@ -217,7 +208,7 @@ Simple program to increase YouTube views written in Python. Works with live stre
   
   Open your favourite terminal and run
    ```
-  git clone https://github.com/MShawon/YouTube-Viewer.git --depth 10
+  git clone https://github.com/arowblack060/Youtube-Viewer.V1.git --depth 10
   ```
   ```
   cd YouTube-Viewer
@@ -257,8 +248,8 @@ Simple program to increase YouTube views written in Python. Works with live stre
   * Youtube doesn't count views from the same IP after a certain time. Like, don't expect to get 100 views from 10 proxies. If you want more views, try to use a lot of premium proxies(free proxies are flagged by most websites). DO NOT use TOR proxies.
   * In a nutshell, you need Rotating proxies to get the best result. But the IP MUST NOT change on each request. Set the sticky session or TTL to 5 to 15 minutes.
   * For IPRoyal it would be *Royal Residential Proxies*, not Static Residential proxies
-  * Use both [urls.txt](https://github.com/MShawon/YouTube-Viewer#urls) and [search.txt](https://github.com/MShawon/YouTube-Viewer#search)
-  * And use as many [urls](https://github.com/MShawon/YouTube-Viewer#urls) and [keyword::::title](https://github.com/MShawon/YouTube-Viewer#search) as you can. Don't use just one video.
+  * Use both [urls.txt](https://github.com/arowblack060/Youtube-Viewer.V1#urls) and [search.txt](https://github.com/arowblack060/Youtube-Viewer.V1#search)
+  * And use as many [urls](https://github.com/arowblack060/Youtube-Viewer.V1#urls) and [keyword::::title](https://github.com/arowblack060/Youtube-Viewer.V1#search) as you can. Don't use just one video.
 
 
 # Credits
